@@ -1,3 +1,8 @@
+---
+layout: post
+title: 585. Maximum Number in Mountain Sequence
+---
+
 # 585. Maximum Number in Mountain Sequence
 
 ## Description
