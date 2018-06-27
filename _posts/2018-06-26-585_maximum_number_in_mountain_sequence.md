@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 585. Maximum Number in Mountain Sequence
-parmalink: /585_maximum_number_in_mountain_sequence.html
+permalink: /585_maximum_number_in_mountain_sequence.html
 ---
 
 # 585. Maximum Number in Mountain Sequence
